@@ -3,21 +3,21 @@ const projects = [
     {
         title: "   Ebook website",
         description: "A Frontend website where user has registrations,login,select the books",
-        image: "/ebook.jpg",
+        image: "/images/ebook.jpg",
         github: "#",
         
     },
     {
         title: "hospital management system",
         description: " Where we can manage the details of the patients and other ddetails{html,css,javascript,java,php }",
-        image: "/hospital-management-system.webp",
+        image: "/images/hospital-management-system.webp",
         github: "#",
        
     },
     {
         title: "Network Intrusion Detection System",
         description: "Its an AIML project where we can upload a data set and protect from data lekage",
-        image: "/net.jpg",
+        image: "/images/net.jpg",
         github: "#",
         demo: "#"
     }
